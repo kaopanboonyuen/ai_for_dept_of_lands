@@ -12,9 +12,9 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ## 04/06/2024 Object Detection and Instance Segmentation**
 
 - (1) Lecture Slide: 
-
-- (2) (Code) Object Detection with Deep Learning: 
-- (3) (Code) Instance Segmentation with Deep Learning: 
+- (2) (Code) Image Classification with Deep Learning: 
+- (3) (Code) Object Detection with Deep Learning: 
+- (4) (Code) Instance Segmentation with Deep Learning: 
 
 ![alt text](https://chaosmail.github.io/images/deep-learning/localizationVsDetection.png "join ds")
 
