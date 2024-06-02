@@ -6,6 +6,7 @@ Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
+![](https://github.com/kaopanboonyuen/ai_for_dept_of_lands/raw/main/img/lands_logo.png)
 ![alt text](https://www.oreilly.com/api/v2/epubs/9781098102357/files/assets/pmlc_0401.png "join ds")
 
 ## 04/06/2024 Object Detection and Instance Segmentation**
