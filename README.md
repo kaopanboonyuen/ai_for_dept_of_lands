@@ -11,11 +11,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ## 04/06/2024 Object Detection and Instance Segmentation**
 
-- (1) Lecture Slide: https://github.com/kaopanboonyuen/ai_for_dept_of_lands/blob/main/slide/AI_FOR_DEPT_OF_LANDS.pdf
-- (2) (Code) Image Classification with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/ai_for_dept_of_lands/blob/main/code/ai_lands_workshop_image_classification_toStudent.ipynb
-- (3) (Code) Object Detection with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/ai_for_dept_of_lands/blob/main/code/ai_lands_workshop_object_detection_toStudent.ipynb
-- (4) (Code) Instance Segmentation with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/ai_for_dept_of_lands/blob/main/code/ai_lands_workshop_instance_segmentation_toStudent.ipynb
-- (5) (Demo) AI DRAWS MAPS OF LANDS: http://100.24.174.202:8501/
+- (1) Lecture Slide: https://github.com/kaopanboonyuen/ai_for_dept_of_lands/blob/main/slide/DOL2025_BasicAI.pdf
+- (2) (Code) Image Classification with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/ai_for_dept_of_lands/blob/main/code/DOL_01_classification_toStudent.ipynb
 
 ![alt text](https://chaosmail.github.io/images/deep-learning/localizationVsDetection.png "join ds")
 
